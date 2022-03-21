@@ -30,18 +30,22 @@
     position: relative;
 }
 
-.sconto1 {
+.sconto-rosso-verde {
+    background-color: red;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.sconto-rosso {
     background-color: red;
     position: absolute;
     left: 0;
     bottom: 0;
 
-
 }
 
-.immagine1 {
+.immagine {
     height: 400px;
     display: block;
-    
-
 }
