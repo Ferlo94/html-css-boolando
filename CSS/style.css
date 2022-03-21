@@ -16,6 +16,7 @@
 }
 
 .scritte {
+    padding-top: 10px;
     padding-bottom: 20px;
 }
 
@@ -61,6 +62,30 @@
     height: 470px;
     display: table;
 }
+
+.prodotto-flip {
+    width: 100%;
+    position: relative;
+}
+
+.immagine1flip {
+    height: 470px;
+    display: table;
+}
+
+.immagine2flip {
+    height: 470px;
+    display: none;
+}
+
+.prodotto-flip:hover .immagine1flip {
+    display: none;
+}
+
+.prodotto-flip:hover .immagine2flip {
+    display: block;
+}
+
 
 .numeri-rossi {
     color: red;
