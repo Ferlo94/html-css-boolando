@@ -20,5 +20,28 @@
 }
 
 .colonna {
+    float: left;
+    width: calc(100% / 3 - 8px);
+    margin: 0 4px;
+}
+
+.prodotto {
+    width: 100%;
+    position: relative;
+}
+
+.sconto1 {
+    background-color: red;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+
+
+}
+
+.immagine1 {
+    height: 400px;
+    display: block;
     
+
 }
