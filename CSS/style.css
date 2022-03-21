@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .contenitore {
     max-width: 1000px;
     margin: auto;
@@ -35,7 +39,7 @@
     background-color: green;
     color: white;
     position: absolute;
-    left: 46px;
+    left: 50px;
     bottom: 20px;
     padding: 3px;
 }
