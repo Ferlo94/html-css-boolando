@@ -15,7 +15,8 @@
     clear: both;
 }
 
-.riga-1 {
+.scritte {
+    padding-bottom: 20px;
 
 }
 
@@ -56,4 +57,13 @@
 .immagine {
     height: 470px;
     display: table;
+}
+
+.numeri-rossi {
+    color: red;
+}
+
+.numeri-sbarrati {
+    text-decoration: line-through;
+    color: black;
 }
