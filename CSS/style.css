@@ -57,8 +57,9 @@ body {
     background-color: white;
     position: absolute;
     color: black;
+    font-size: 30px;
     top: 10px;
-    left: 308px;
+    left: 300px;
     padding: 4px;
 }
 
