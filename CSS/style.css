@@ -17,7 +17,6 @@
 
 .scritte {
     padding-bottom: 20px;
-
 }
 
 .colonna {
@@ -31,10 +30,11 @@
     position: relative;
 }
 
-.sconto-rosso-verde {
-    background-color: red;
+.sconto-verde {
+    background-color: green;
+    color: white;
     position: absolute;
-    left: 0;
+    left: 40px;
     bottom: 20px;
 }
 
